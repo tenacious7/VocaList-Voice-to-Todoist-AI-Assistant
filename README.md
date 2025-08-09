@@ -30,20 +30,23 @@ This AI-powered Telegram bot transforms your voice messages into perfectly struc
 
 ---
 
-## 🎬 See It In Action
-
-### 📹 Demo Videos
-
+🎬 See It In Action
 <div align="center">
+🚀 Live Demo
+Watch VocaList transform voice into tasks in real-time!
+<img src="assets/demo.gif" alt="VocaList Demo" width="600" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
+</div>
+📹 More Videos
+<div align="center">
+🔗 LinkedIn Feature Showcase
 
-**🔗 LinkedIn Feature Showcase**
-> [Watch the LinkedIn post video](YOUR_LINKEDIN_POST_VIDEO_LINK)
+Watch the LinkedIn post video
 
-**🎥 Full Demo & Tutorial** 
-> [Complete walkthrough video](assets/demo.gif)
+🎥 Full Demo & Tutorial
 
-*Click the links above to see VocaList in action!*
+Complete walkthrough video
 
+Click the links above for detailed walkthroughs!
 </div>
 
 ---
