@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Add your logo here -->
-![VocaList Logo](assets/logo.png)
+![VocaList Logo](assets/vocalist_logo.png)
 
 *Transform your voice into organized tasks with the power of AI* ✨
 
@@ -40,7 +40,7 @@ This AI-powered Telegram bot transforms your voice messages into perfectly struc
 > [Watch the LinkedIn post video](YOUR_LINKEDIN_POST_VIDEO_LINK)
 
 **🎥 Full Demo & Tutorial** 
-> [Complete walkthrough video](assets/demo-video.mp4)
+> [Complete walkthrough video](assets/demo.gif)
 
 *Click the links above to see VocaList in action!*
 
