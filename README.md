@@ -38,16 +38,7 @@ Watch VocaList transform voice into tasks in real-time!
 </div>
 📹 More Videos
 <div align="center">
-🔗 LinkedIn Feature Showcase
 
-Watch the LinkedIn post video
-
-🎥 Full Demo & Tutorial
-
-Complete walkthrough video
-
-Click the links above for detailed walkthroughs!
-</div>
 
 ---
 
