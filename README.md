@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Add your logo here -->
-![VocaList Logo]<img src="assets/logo.png" alt="VocaList Logo" width="150"/>
+<img src="assets/logo.png" alt="VocaList Logo" width="150"/>
 
 *Transform your voice into organized tasks with the power of AI* ✨
 
