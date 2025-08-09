@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="assets/vocalist_logo.png" alt="VocaList Logo" width="120">
+  <img src="assets/logo.png" alt="VocaList Logo" width="120">
 </p>
 
 <h1 align="center">🎙️ VocaList – Voice to Todoist AI Assistant</h1>
