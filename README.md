@@ -226,9 +226,7 @@ git push origin feature/awesome-feature
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-
 MIT License - Feel free to use, modify, and distribute!
-```
 
 ## 💝 Support the Project
 
@@ -236,10 +234,9 @@ If VocaList has boosted your productivity, consider:
 
 <div align="center">
 
-⭐ **Star this repository**
-🔄 **Share with friends** 
+⭐ **Star this repository**  
+🔄 **Share with friends**  
 💬 **Spread the word**
-
 
 </div>
 
@@ -258,3 +255,4 @@ If VocaList has boosted your productivity, consider:
 *"Speak your tasks, live your dreams"* ✨
 
 </div>
+
