@@ -247,12 +247,6 @@ git push origin feature/awesome-feature
 ![GitHub watchers](https://img.shields.io/github/watchers/tenacious7/VocaList-Voice-to-Todoist-AI-Assistant?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/tenacious7/VocaList-Voice-to-Todoist-AI-Assistant?style=social)
 
-### 🌟 **Community Love**
-*"This is exactly what I needed for my productivity workflow!"* - [@developer123](https://github.com/developer123)
-
-*"The AI parsing is incredibly accurate. Mind blown! 🤯"* - [@productivityguru](https://github.com/productivityguru)
-
-</div>
 
 ---
 
@@ -263,25 +257,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License - Feel free to use, modify, and distribute!
 ```
-
----
-
-## 👨‍💻 About the Creator
-
-<div align="center">
-
-### **Brijesh** 
-*Full-Stack Developer | AI Enthusiast | Automation Ninja*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tenacious7)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_PROFILE)
-
-*Building the future, one automation at a time* 🚀
-
-</div>
-
----
 
 ## 💝 Support the Project
 
