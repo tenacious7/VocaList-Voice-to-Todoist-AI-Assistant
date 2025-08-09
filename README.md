@@ -267,7 +267,7 @@ If VocaList has boosted your productivity, consider:
 ⭐ **Star this repository**
 🔄 **Share with friends** 
 💬 **Spread the word**
-☕ **[Buy me a coffee](YOUR_COFFEE_LINK)**
+
 
 </div>
 
@@ -281,7 +281,7 @@ If VocaList has boosted your productivity, consider:
 
 ---
 
-**Made with ❤️ by Brijesh | © 2024 VocaList**
+**Made with ❤️ by Brijesh | © 2025 VocaList**
 
 *"Speak your tasks, live your dreams"* ✨
 
