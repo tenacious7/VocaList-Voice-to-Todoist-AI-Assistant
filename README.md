@@ -191,22 +191,6 @@ This AI-powered Telegram bot transforms your voice messages into perfectly struc
 
 ---
 
-## 🎯 Roadmap
-
-### 🔜 Coming Soon:
-- [ ] **Multi-task parsing** from single voice message
-- [ ] **Project/label auto-assignment** 
-- [ ] **Recurring task detection**
-- [ ] **Voice task editing capabilities**
-- [ ] **Multiple language support**
-- [ ] **Slack/Discord integrations**
-
-### 💡 Future Vision:
-- [ ] **Calendar integration** (Google/Outlook)
-- [ ] **Smart scheduling suggestions**
-- [ ] **Team collaboration features**
-- [ ] **Analytics & productivity insights**
-- [ ] **Mobile app companion**
 
 ---
 
