@@ -147,7 +147,6 @@ Watch VocaList transform voice into tasks in real-time!
 
 > 📖 **Detailed setup guide:** [SETUP.md](SETUP.md)
 
----
 
 ## 💬 Usage Examples
 
@@ -162,8 +161,6 @@ Watch VocaList transform voice into tasks in real-time!
 🗣️ "Call mom this weekend, not urgent"
 ✅ Creates: "Call mom" | Priority: 4 | Due: This weekend
 ```
-
----
 
 ## 📊 Workflow Overview
 
@@ -182,9 +179,6 @@ Watch VocaList transform voice into tasks in real-time!
 4. 🧠 **Gemini AI analyzes and structures task**
 5. ✅ **Todoist creates the organized task**
 6. 📲 **Confirmation sent back to user**
-
----
-
 
 ---
 
@@ -214,7 +208,7 @@ git commit -m "Add awesome feature"
 git push origin feature/awesome-feature
 ```
 
----
+
 
 ## 🏆 Achievements & Recognition
 
@@ -232,7 +226,7 @@ git push origin feature/awesome-feature
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-```
+
 MIT License - Feel free to use, modify, and distribute!
 ```
 
